@@ -1,0 +1,35 @@
+<div class='l3'></div>
+<div class='l2'></div>
+<div class='l1'></div>
+<style>
+  body{
+    background:#0B2429;
+  }
+  .l3 {
+    width: 150px;
+    height: 150px;
+    background: #1A4341;
+    border-radius:100px 0 ;
+    position: absolute;
+    top: 75;
+    left: 75;
+  }
+  .l2{
+    width: 150px;
+    height: 150px;
+    background: #998235;
+    border-radius:100px 0 ;
+    position: absolute;
+    top: 75;
+    left: 125;
+  }
+  .l1{width: 150px;
+    height: 150px;
+    background: #F3AC3C;
+    border-radius:100px 0 ;
+    position: absolute;
+    top: 75;
+    left: 175;
+      }
+  
+</style>
