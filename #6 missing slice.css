@@ -1,0 +1,35 @@
+<div class='one'></div>
+<div class='two'></div>
+<div class='three'></div>
+<style>
+  body{
+    background:#E3516E;
+  }
+  .one {
+  width: 100px;
+  height: 100px;
+  background-color: #FADE8B;
+  border-radius: 0 100px 0 0;
+  position:absolute;
+  left: 200;
+  top:50;
+  }
+  .two{
+  width: 100px;
+  height: 100px;
+  background-color: #51B5A9;
+  border-radius: 100px 0 0 0;
+  position:absolute;
+  left: 100;
+  top:50;
+  }
+  .three{
+    width: 100px;
+  height: 100px;
+  background-color: #F7F3D7;
+  border-radius: 0 0 0 100px ;
+  position:absolute;
+  left: 100;
+  top:150;
+  }
+</style>

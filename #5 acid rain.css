@@ -1,0 +1,36 @@
+<div class='one'></div>
+<div class='two'></div>
+<div class='three'></div>
+<style>
+  body{
+    background: #0B2429;
+  }
+  .one {
+    width: 120px;
+    height: 120px;
+    background: #F3AC3C;
+    position:absolute;
+    left: 200;
+    top:30;
+    border-radius: 100%;
+  }
+  .two{
+    width: 120px;
+    height: 120px;
+    background: #998235;
+    position:absolute;
+    left: 140;
+    top:90;
+    border-radius:100px 0 100px 100px ;
+  }
+  .three{
+    width: 120px;
+    height: 120px;
+    background: #F3AC3C;
+    position:absolute;
+    left: 80;
+    top:150;
+    border-radius:100px 0 100px 100px ;
+  }
+  
+</style>
