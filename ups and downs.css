@@ -1,0 +1,62 @@
+<div class='rect1' ></div>
+<div class='rect2' ></div>
+<div class='rect3' ></div>
+<div class='semi1' ></div>
+<div class='semi2' ></div>
+<div class='semi3' ></div>
+<style>
+  body{
+    background:#62306D;
+  }
+  .rect1{
+    height: 50px;
+    width:100px;
+    position: absolute;
+    left:50;
+    top:150px;
+    background:#F7EC7D;
+  }
+  .rect2{
+    height: 50;
+    width:100;
+    position: absolute;
+    left:150;
+    top:100;
+    background:#F7EC7D;
+  }
+  .rect3{
+    height: 50;
+    width:100;
+    position: absolute;
+    left:250;
+    top:150;
+    background:#F7EC7D;
+  }
+  .semi1{
+    height:100;
+    width:100;
+    border-radius: 100%;
+    position: absolute;
+    left:50;
+    top:150;
+    background:#F7EC7D;
+  }
+  .semi2{
+    height: 100;
+    width:100;
+    border-radius:100%;
+    position: absolute;
+    left:150;
+    top:50;
+    background:#F7EC7D;
+  }
+  .semi3{
+    height: 100;
+    width:100;
+    position: absolute;
+    border-radius:100%;
+    left:250;
+    top:150;
+    background:#F7EC7D;
+  }
+</style>
