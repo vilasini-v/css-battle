@@ -1,0 +1,41 @@
+<div class="first"></div>
+<div class="sec"></div>
+<div class="third"></div>
+<div class="four"></div>
+<style>
+  body {
+background: #62374e;
+}
+  .first {
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    top:50;
+    left:50;
+    background: #fdc57b;
+  }
+      .sec {
+      position: absolute;
+      left:300;
+      top:50;
+    width: 50px;
+    height: 50px;
+    background: #fdc57b;
+  }
+   .third {
+      position: absolute;
+      left:300;
+      top:200;
+    width: 50px;
+    height: 50px;
+    background: #fdc57b;
+  }
+  .four {
+    width: 50px;
+    height: 50px;
+    position:absolute;
+    bottom:50;
+    left:50;
+    background: #fdc57b;
+  }
+</style>
