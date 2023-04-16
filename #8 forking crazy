@@ -1,0 +1,97 @@
+<div class="semi"></div>
+<div class="line"></div>
+<div class="line1"></div>
+<div class="line2"></div>
+<div class="line3"></div>
+<div class="line4"></div>
+<div class="line22"></div>
+<div class="line33"></div>
+<div class="line44"></div>
+<style>
+* {
+  background: #6592CF;
+}
+.semi{
+  position: absolute;
+  background: #060F55;
+  border-radius: 20px 20px 70px 70px;
+  height: 110px;
+  width: 140px;
+  top: 140px;
+  left: 130px;
+}
+
+
+  
+.line{
+  position: absolute;
+  background: #060F55;
+  height:100px;
+  width: 20px;
+  top: 200px;
+  left: 190px
+}
+.line1 {
+  position: absolute;
+  border-radius: 10px 10px 0px 0px;
+  background: #060F55;
+  height:120px;
+  width: 20px;
+  top: 50px;
+  left: 130px
+}
+.line2 {
+  position: absolute;
+  border-radius: 10px 10px 0px 0px;
+  background: #060F55;
+  height:120px;
+  width: 20px;
+  top: 50px;
+  left: 170px
+}
+.line3 {
+  position: absolute;
+  border-radius: 10px 10px 0px 0px;
+  background: #060F55;
+  height:120px;
+  width: 20px;
+  top: 50px;
+  left: 210px
+}
+.line4 {
+  position: absolute;
+  border-radius: 10px 10px 0px 0px;
+  background: #060F55;
+  height:120px;
+  width: 20px;
+  top: 50px;
+  left: 250px
+}
+.line22 {
+  position: absolute;
+  border-radius: 10px 10px 10px 10px;
+  background: #6592CF;
+  height:110px;
+  width: 20px;
+  top: 50px;
+  left: 150px
+}
+.line33 {
+  position: absolute;
+  border-radius: 10px 10px 10px 10px;
+  background: #6592CF;
+  height:110px;
+  width: 20px;
+  top: 50px;
+  left: 190px
+}
+.line44 {
+  position: absolute;
+  border-radius: 10px 10px 10px 10px;
+  background: #6592CF;
+  height:110px;
+  width: 20px;
+  top: 50px;
+  left: 230px
+}
+</style>
